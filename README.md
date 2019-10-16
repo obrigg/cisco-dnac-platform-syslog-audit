@@ -1,4 +1,6 @@
 # Cisco DNA Center platform: Audit log export via Syslog
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/obrigg/cisco-dnac-platform-syslog-audit)
+
 This code will query Cisco DNA Center for its audit log every [defined period of time], in order to convert the events to an external program/platform using Syslog.
 * Technology stack: Python + Docker (optional)
 * Status:  Alpha, designed to prove the ability and openess of Cisco DNA Center.
